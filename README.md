@@ -2,7 +2,7 @@
 
 This location is host for the BRIDGES-AVATAR catalog webpage. 
 
-Click [here](https://bridges-avatar.github.io/catalog-webpage) to access the data catalog website. The content source files are written in markdown. The source code for this webpage is available [here](https://github.com/bridges-avatar/catalog-webpage).
+Click [here](https://bridges-avatar.github.io/pc3-catalog-webpage) to access the data catalog website. The content source files are written in markdown. The source code for this webpage is available [here](https://github.com/bridges-avatar/catalog-webpage).
 
 ## CREDITS
 
